@@ -17,4 +17,23 @@ Hardware requirements:
 
 ![image](https://github.com/rahul13289/HelpMe_App/assets/97829880/7971b567-233b-4f69-9908-d9640e6ee5b0)     ![image](https://github.com/rahul13289/HelpMe_App/assets/97829880/476aba3c-0bdd-4c46-b5ea-4e9799ac62ae)
 
+Hardware connectivity:
+
+GPIO 0 and GPIO 2: These pins are used for flashing the ESP8266 with new firmware.
+GPIO 15: This pin is used to reset the ESP8266.
+GPIO 16: This pin is used to put the ESP8266 into deep sleep mode.
+GPIO 4, GPIO 5, GPIO 12, GPIO 13, GPIO 14, GPIO 2, GPIO 15, GPIO 3, GPIO 1, GPIO 10, and GPIO 9: These pins are general-purpose input/output (GPIO) pins that can be used for various purposes, such as connecting sensors, actuators, and displays.
+Important note: The ESP8266 NodeMCU kit pinout diagram may vary depending on the manufacturer of the board. It is always best to consult the board's documentation to confirm the pinout diagram.
+
+![image](https://github.com/rahul13289/HelpMe_App/assets/97829880/da6f996f-7d76-459b-b5d2-e98bf665a4e3)
+
+
+
+
+
+
+
+
+
+Thank You !!!
 
